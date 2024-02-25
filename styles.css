@@ -1359,39 +1359,39 @@ form button:hover {
 }
 .project-1{
   height: 150vh;
-  max-height: 780px;
+  max-height: 700px;
   padding: 30px;
   display: flex;
   line-height: 30px;
   flex-direction: column;
 }
 .project-2{
-  max-height: 780px;
-  height: 150vh;
+  max-height: 630px;
+  height: 130vh;
   padding: 30px;
   flex-direction: column-reverse;
 }
 .project-3{
   height: 150vh;
-  max-height: 830px;
+  max-height: 700px;
   padding: 30px;
   flex-direction: column;
 }
 .project-4{
-  height: 150vh;
-  max-height: 700px;
+  height: 120vh;
+  max-height: 600px;
   padding: 30px;
   flex-direction: column-reverse;
 }
 .project-5{
   padding: 30px;
-  max-height: 700px;
+  max-height: 600px;
   height: 150vh;
  flex-direction: column;
 }
 .project-6{
-  height: 150vh;
-  max-height: 700px;
+  height: 130vh;
+  max-height: 650px;
   padding: 30px;
   line-height: 30px;
   flex-direction: column-reverse;
