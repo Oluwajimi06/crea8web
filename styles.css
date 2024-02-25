@@ -1246,7 +1246,7 @@ form button:hover {
 }
 .services-exp-3{
   display: flex;
-  height: 150vh;
+  height: 160vh;
   max-height: 900px;
   padding: 30px;
 }
@@ -1378,7 +1378,7 @@ form button:hover {
   flex-direction: column;
 }
 .project-4{
-  height: 120vh;
+  height: 140vh;
   max-height: 600px;
   padding: 30px;
   flex-direction: column-reverse;
